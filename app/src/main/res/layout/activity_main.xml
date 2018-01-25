@@ -32,7 +32,6 @@
             android:id="@+id/button_main"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:onClick="showText"
             android:text="@string/show_button"/>
     </LinearLayout>
 

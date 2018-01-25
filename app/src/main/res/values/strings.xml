@@ -5,6 +5,7 @@
     <string name="hint_phonenumber">Enter phone number</string>
     <string name="nothing_entered">Nothing entered.</string>
     <string name="phonenumber_label">Phone Number:</string>
+    <string name="nothing_selected">onNothingSelected:</string>
 
     <string-array name="labels_array">
         <item>Home</item>
