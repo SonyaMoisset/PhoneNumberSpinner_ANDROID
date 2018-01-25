@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Phone Number Spinner</string>
+
+    <string name="show_button">Show</string>
+    <string name="hint_phonenumber">Enter phone number</string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="phonenumber_label">Phone Number:</string>
 </resources>
